@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
-<h3 align="center">A passionate Full Stack Developer and AI/ML Model DEveloper from VIT Vellore</h3>
+<h3 align="center">A passionate Full Stack Developer and AI/ML Model Developer from VIT Vellore</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
